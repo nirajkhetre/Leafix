@@ -9,7 +9,7 @@ const testimonials = [
     name: "Sarah J.",
     photo: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=80",
     rating: 5,
-    text: "PlantEase saved my fiddle leaf fig! I was overwatering it until the app identified my plant and gave me proper care instructions. Now it's thriving!"
+    text: "Leafix saved my fiddle leaf fig! I was overwatering it until the app identified my plant and gave me proper care instructions. Now it's thriving!"
   },
   {
     id: 2,
@@ -23,7 +23,7 @@ const testimonials = [
     name: "Priya M.",
     photo: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=80",
     rating: 5,
-    text: "I've tried several plant apps, and PlantEase is by far the most accurate and user-friendly. It helped me diagnose a fungal issue on my monstera and saved it!"
+    text: "I've tried several plant apps, and Leafix is by far the most accurate and user-friendly. It helped me diagnose a fungal issue on my monstera and saved it!"
   },
   {
     id: 4,

@@ -74,7 +74,7 @@ const featureDetails: FeatureDetails[] = [
     title: "Weather Integration",
     description: "Adapts care tips based on local weather",
     icon: <i className="fas fa-cloud-sun-rain text-primary text-lg"></i>,
-    detailedDescription: "PlantEase connects to local weather data to automatically adjust your plant care recommendations. During heat waves, cold snaps, or extended cloudy periods, the app will modify watering schedules and provide protective measures.",
+    detailedDescription: "Leafix connects to local weather data to automatically adjust your plant care recommendations. During heat waves, cold snaps, or extended cloudy periods, the app will modify watering schedules and provide protective measures.",
     imageUrl: "https://images.unsplash.com/photo-1534088568595-a066f410bcda?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
     benefits: [
       "Automated adjustments based on local forecasts",

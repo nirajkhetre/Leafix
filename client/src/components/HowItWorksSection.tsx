@@ -16,7 +16,7 @@ export default function HowItWorksSection() {
           className="text-center max-w-3xl mx-auto mb-16"
           variants={fadeIn('up', 'tween', 0.1, 1)}
         >
-          <h2 className="text-2xl md:text-3xl font-bold text-neutral-dark">How PlantEase Works</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-neutral-dark">How Leafix Works</h2>
           <p className="mt-4 text-neutral-dark opacity-80">Getting plant care has never been this simple</p>
         </motion.div>
         
@@ -78,7 +78,7 @@ export default function HowItWorksSection() {
           <div className="relative max-w-4xl mx-auto">
             <img 
               src="https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80" 
-              alt="PlantEase app interface showcase" 
+              alt="Leafix app interface showcase" 
               className="rounded-xl shadow-xl mx-auto"
               width="1000"
               height="500"
