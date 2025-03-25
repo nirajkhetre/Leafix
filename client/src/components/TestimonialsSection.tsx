@@ -44,7 +44,7 @@ const testimonials = [
     name: "David L.",
     photo: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=80",
     rating: 5,
-    text: "As someone who always killed plants before, PlantEase has given me the confidence to build a thriving indoor jungle. Incredible app!"
+    text: "As someone who always killed plants before, Leafix has given me the confidence to build a thriving indoor jungle. Incredible app!"
   }
 ];
 
