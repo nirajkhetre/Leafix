@@ -32,7 +32,7 @@ export default function Footer() {
                 <path d="M12,2C6.5,2,2,6.5,2,12c0,5.5,4.5,10,10,10s10-4.5,10-10C22,6.5,17.5,2,12,2z M12,16c-2.2,0-4-1.8-4-4
                 c0-2.2,1.8-4,4-4s4,1.8,4,4C16,14.2,14.2,16,12,16z"/>
               </svg>
-              <span className="ml-2 text-xl font-semibold text-white">PlantEase</span>
+              <span className="ml-2 text-xl font-semibold text-white">Leafix</span>
             </div>
             <p className="text-gray-400 mb-4">Your AI plant care companion that makes caring for plants simple and enjoyable.</p>
             <div className="flex space-x-4">
@@ -109,7 +109,7 @@ export default function Footer() {
           variants={fadeIn('up', 'tween', 0.5, 1)}
         >
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <p className="text-gray-400 text-sm">© {new Date().getFullYear()} PlantEase. All rights reserved.</p>
+            <p className="text-gray-400 text-sm">© {new Date().getFullYear()} Leafix. All rights reserved.</p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-gray-400 hover:text-primary text-sm transition duration-300">Privacy Policy</a>
               <a href="#" className="text-gray-400 hover:text-primary text-sm transition duration-300">Terms of Service</a>

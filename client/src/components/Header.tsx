@@ -38,7 +38,7 @@ export default function Header() {
             <path d="M12,6c-3.3,0-6,2.7-6,6c0,3.3,2.7,6,6,6s6-2.7,6-6C18,8.7,15.3,6,12,6z M12,14c-1.1,0-2-0.9-2-2
             c0-1.1,0.9-2,2-2s2,0.9,2,2C14,13.1,13.1,14,12,14z"/>
           </svg>
-          <span className="ml-2 text-xl font-semibold text-primary">PlantEase</span>
+          <span className="ml-2 text-xl font-semibold text-primary">Leafix</span>
         </motion.div>
         
         {/* Navigation - Desktop */}

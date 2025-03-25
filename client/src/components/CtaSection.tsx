@@ -21,7 +21,7 @@ export default function CtaSection() {
           variants={fadeIn('up', 'tween', 0.1, 1)}
         >
           <h2 className="text-2xl md:text-4xl font-bold">Ready to Become a Plant Expert?</h2>
-          <p className="mt-4 text-lg md:text-xl opacity-90">Download PlantEase today and transform your plant care routine</p>
+          <p className="mt-4 text-lg md:text-xl opacity-90">Download Leafix today and transform your plant care routine</p>
           
           {/* Download Buttons */}
           <div className="mt-10 flex flex-wrap justify-center gap-4">

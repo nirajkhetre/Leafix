@@ -18,7 +18,7 @@ export default function HeroSection() {
             variants={fadeIn('right', 'tween', 0.2, 1)}
           >
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-neutral-dark leading-tight">
-              Smart AI for Plant Care – <span className="text-primary">Just Snap & Learn</span>
+              Leafix: Smart AI for Plant Care – <span className="text-primary">Just Snap & Learn</span>
             </h1>
             <p className="mt-4 md:mt-6 text-lg md:text-xl text-neutral-dark opacity-90 max-w-xl mx-auto md:mx-0">
               Identify plants and get personalized care tips instantly with our AI-powered app.
@@ -67,7 +67,7 @@ export default function HeroSection() {
             <div className="relative mx-auto md:ml-auto md:mr-0 max-w-sm">
               <img 
                 src="https://images.unsplash.com/photo-1564727564693-568b3e5ed044?ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=80" 
-                alt="User identifying plant with PlantEase app" 
+                alt="User identifying plant with Leafix app" 
                 className="rounded-3xl mx-auto z-10 relative shadow-xl"
                 width="320"
                 height="640"

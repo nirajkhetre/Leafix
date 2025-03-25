@@ -16,7 +16,7 @@ export default function WhyChooseUsSection() {
           className="text-center max-w-3xl mx-auto mb-16"
           variants={fadeIn('up', 'tween', 0.1, 1)}
         >
-          <h2 className="text-2xl md:text-3xl font-bold text-neutral-dark">Why Choose PlantEase?</h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-neutral-dark">Why Choose Leafix?</h2>
           <p className="mt-4 text-neutral-dark opacity-80">See how we compare to traditional plant care methods</p>
         </motion.div>
         
@@ -35,7 +35,7 @@ export default function WhyChooseUsSection() {
                       <path d="M12,2C6.5,2,2,6.5,2,12c0,5.5,4.5,10,10,10s10-4.5,10-10C22,6.5,17.5,2,12,2z M12,16c-2.2,0-4-1.8-4-4
                       c0-2.2,1.8-4,4-4s4,1.8,4,4C16,14.2,14.2,16,12,16z"/>
                     </svg>
-                    PlantEase
+                    Leafix
                   </div>
                 </th>
                 <th className="p-4 text-center border-b border-gray-200 text-neutral-dark">Web Searches</th>
