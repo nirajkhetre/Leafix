@@ -29,8 +29,8 @@ export default function Footer() {
           >
             <div className="flex items-center mb-4">
               <svg className="w-8 h-8 text-primary" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M12,2C6.5,2,2,6.5,2,12c0,5.5,4.5,10,10,10s10-4.5,10-10C22,6.5,17.5,2,12,2z M12,16c-2.2,0-4-1.8-4-4
-                c0-2.2,1.8-4,4-4s4,1.8,4,4C16,14.2,14.2,16,12,16z"/>
+                <path d="M6,2C2.5,3,2,7.5,3,11c1,4,4,8,9,10s8-4,9-8c1-3.5-0.5-8-4-9C8,2,6,2,6,2z M11,6c2.8,0,5,2.2,5,5s-2.2,5-5,5s-5-2.2-5-5S1,1,11,6z"/>
+                <path d="M11,8c-1.7,0-3,1.3-3,3s1.3,3,2,3s3-1.3,4-3S12.7,8,11,8z"/>
               </svg>
               <span className="ml-2 text-xl font-semibold text-white">Leafix</span>
             </div>
