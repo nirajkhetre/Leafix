@@ -3,7 +3,7 @@ import HeroSection from "@/components/HeroSection";
 import HowItWorksSection from "@/components/HowItWorksSection";
 import FeaturesSection from "@/components/FeaturesSection";
 import WhyChooseUsSection from "@/components/WhyChooseUsSection";
-import TestimonialsSection from "@/components/TestimonialsSection";
+import UpcomingFeaturesSection from "@/components/TestimonialsSection";
 import CtaSection from "@/components/CtaSection";
 import Footer from "@/components/Footer";
 import { useEffect } from "react";
@@ -45,7 +45,7 @@ export default function Home() {
       <HowItWorksSection />
       <FeaturesSection />
       <WhyChooseUsSection />
-      <TestimonialsSection />
+      <UpcomingFeaturesSection />
       <CtaSection />
       <Footer />
     </div>
