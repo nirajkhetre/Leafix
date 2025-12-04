@@ -4,6 +4,7 @@ import HowItWorksSection from "@/components/HowItWorksSection";
 import FeaturesSection from "@/components/FeaturesSection";
 import WhyChooseUsSection from "@/components/WhyChooseUsSection";
 import UpcomingFeaturesSection from "@/components/TestimonialsSection";
+import BlogSection from "@/components/BlogSection";
 import CtaSection from "@/components/CtaSection";
 import Footer from "@/components/Footer";
 import { useEffect } from "react";
@@ -14,11 +15,11 @@ export default function Home() {
     const handleAnchorClick = (e: MouseEvent) => {
       const target = e.target as HTMLElement;
       const anchor = target.closest('a[href^="#"]');
-      
+
       if (anchor) {
         e.preventDefault();
         const targetId = anchor.getAttribute('href');
-        
+
         if (targetId && targetId !== '#') {
           const targetElement = document.querySelector(targetId);
           if (targetElement) {
@@ -32,7 +33,7 @@ export default function Home() {
     };
 
     document.addEventListener('click', handleAnchorClick);
-    
+
     return () => {
       document.removeEventListener('click', handleAnchorClick);
     };
@@ -46,6 +47,7 @@ export default function Home() {
       <FeaturesSection />
       <WhyChooseUsSection />
       <UpcomingFeaturesSection />
+      <BlogSection />
       <CtaSection />
       <Footer />
     </div>
