@@ -184,5 +184,69 @@ Don't let a free weekend go to waste. Download the app today and start exploring
 
 *Join the movement. Create your space. Find your spur.*
     `
+  },
+  {
+    slug: "spur-space-app-review-pune-local-activities",
+    title: "Spur Space Review: Is This the Best App for Meeting New People in Pune?",
+    excerpt: "Honest review of Spur Space, the new social app in Pune. How does it compare to Meetup? Is it safe? Here's everything you need to know.",
+    date: "February 12, 2026",
+    author: "Pune Explorer",
+    image: "/assets/blog/spur-space-review.jpg",
+    tags: ["App Review", "Pune Social", "Safety", "Travel Guide", "Spur Space"],
+    metaDescription: "Read our in-depth review of Spur Space. We tested the app's features, safety, and community to see if it's the best way to meet new people in Pune.",
+    content: `
+# Spur Space Review: The New Way to Socialize in Pune?
+
+Social apps are a dime a dozen these days. You have dating apps, networking apps, and endless scrolling feeds. But what if you just want to *do* something? That's the promise of **[Spur Space](https://spurspace.in)**.
+
+I spent the last week using Spur Space in Pune to see if it lives up to the hype. Here is my honest review.
+
+## The Problem with Modern "Social" Apps
+
+Let's be real: most "social" apps are actually isolating. You match, you chat, the conversation dies, and you never meet.
+
+**Spur Space flips the script.** It eliminates the "chat first" fatigue.
+
+## How Spur Space Works
+
+The core concept is simple but effective:
+1.  **Map-Based Interface:** You see pins on a map representing real activities (Spurs).
+2.  **No Ghosting:** You simply request to join. Once accepted, you show up.
+3.  **Time-Bound:** Activities happen *now* or soon. It drives urgency and actual meetups.
+
+## Key Features Tested
+
+### 1. The "Spur" Creation
+I created a "Coffee at Blue Tokai" spur for 2 hours later.
+*   **Ease of use:** 5/5. Took me 30 seconds.
+*   **Response:** I got 2 requests within an hour. Successfully met up with one person for coffee. It was surprisingly low-pressure.
+
+### 2. Safety & Verification
+This was my biggest concern. Meeting strangers?
+*   **Verification:** The app requires mobile verification.
+*   **Ratings:** After the meetup, you rate the interaction. This builds a "reputation score" that helps filter out creeps.
+*   **Public Places:** The app encourages public meetups (cafes, malls, parks), which is a smart design choice.
+
+### 3. Community Vibe
+The crowd feels like "digital nomads" and "explorers." People who are new to the city or just bored of their routine. It's strictly platonic, which is refreshing.
+
+## Spur Space vs. Meetup vs. Facebook Events
+
+| Feature | Spur Space | Meetup | Facebook Events |
+| :--- | :--- | :--- | :--- |
+| **Focus** | Spontaneous / Small Groups | Large Events | Generic Events |
+| **Cost** | Free | Often Paid | Free |
+| **Vibe** | "Let's hang out" | "Attend a seminar" | "Maybe I'll go" |
+
+## Verdict: Is it Worth the Download?
+
+**Yes.** If you are in Pune (or traveling there) and want to break out of your bubble, Spur Space is a must-have tool.
+
+It’s not perfect—users are still growing in some areas—but the quality of interactions is far higher than anything I've experienced on Tinder or Bumble BFF.
+
+**Rating:** ⭐⭐⭐⭐½ (4.5/5)
+
+**Download here:** [spurspace.in](https://spurspace.in)
+    `
   }
 ];
