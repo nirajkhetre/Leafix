@@ -132,5 +132,57 @@ Now that you know the basics, it's time to jump in.
 
 See you in the world of SMP369!
     `
+  },
+  {
+    slug: "discover-spur-space-local-activities-pune",
+    title: "Spur Space: The Ultimate App to Find Local Activities & Meet New People in Pune",
+    excerpt: "Looking for things to do in Pune? Spur Space helps you find local activities, join spontaneous plans, and meet people who actually show up.",
+    date: "February 12, 2026",
+    author: "Spur Space Team",
+    image: "/assets/blog/spur-space-hero.jpg",
+    tags: ["Social App", "Pune Events", "Meet New People", "Local Activities", "Spur Space"],
+    metaDescription: "Discover Spur Space, the ultimate app for finding local activities in Pune. Join meetups for coffee, hiking, or dinner and connect with people near you.",
+    content: `
+# Discover Spur Space: Your Gateway to Real Connections in Pune
+
+Have you ever wanted to explore a new cafe in Koregaon Park, go for a sunrise hike at Vetal Tekdi, or just grab a quick dinner in Baner, but didn't have anyone to go with? Maybe your friends are busy, or you're new to the city and haven't found your crew yet.
+
+**You are not alone.** And that's exactly why [Spur Space](https://spurspace.in) was created.
+
+## What is Spur Space?
+
+Spur Space is a mobile app designed for travelers, locals, and anyone looking to make real-world connections. It simplifies the process of finding and creating activities—what we call **"Spurs"**—happening right now around you.
+
+Instead of endless swiping or empty chats, Spur Space focuses on **doing**. It's about shared experiences, whether that's a movie night, a photography walk, or a spontaneous food run.
+
+## Go. Pin. Meet.
+
+The philosophy is simple:
+
+1.  **Go:** Open the app and see what's happening on the map.
+2.  **Pin:** Find a "Spur" (activity) pinned on the map that interests you.
+3.  **Meet:** Join the activity and meet up with people who actually show up.
+
+If you don't see an activity you like, simply create your own! Pin a location, set a time, and let others join you.
+
+## Why Choose Spur Space?
+
+### 1. Real-Time Activities
+Spur Space is built for spontaneity. See what's happening *now* or plan for the immediate future. No more planning weeks in advance for plans that might get cancelled.
+
+### 2. Verified Community
+We prioritize safety and authenticity. Join a community of verified users who are genuinely interested in meeting up and doing things.
+
+### 3. Explore Your City
+Discover hidden gems in Pune. From street food trails to cultural workshops, Spur Space helps you experience the city in a whole new way.
+
+## Ready to Join?
+
+Don't let a free weekend go to waste. Download the app today and start exploring Pune with new friends.
+
+**Visit our website:** [spurspace.in](https://spurspace.in)
+
+*Join the movement. Create your space. Find your spur.*
+    `
   }
 ];

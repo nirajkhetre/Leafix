@@ -17,8 +17,21 @@ export default function BlogPost() {
     useEffect(() => {
         if (post) {
             document.title = `${post.title} | SMP369`;
-            // Update meta description if possible, or just rely on title for now
+
+            // Update meta description
+            const metaDescription = document.querySelector('meta[name="description"]');
+            if (metaDescription) {
+                metaDescription.setAttribute('content', post.metaDescription);
+            } else {
+                const newMeta = document.createElement('meta');
+                newMeta.name = 'description';
+                newMeta.content = post.metaDescription;
+                document.head.appendChild(newMeta);
+            }
         }
+
+        // Cleanup function to reset meta description when leaving component isn't strictly necessary 
+        // for a SPA unless we want to revert to a default, but for now we'll leave it.
     }, [post]);
 
     if (!post) {
